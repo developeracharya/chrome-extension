@@ -1,0 +1,49 @@
+.heading{
+color: #3C486B;
+font-family: sans-serif;
+ font-weight: bold;
+}
+
+body{
+    min-width: 500px;
+}
+.url{
+    width: 100%;
+    margin-right: 150px ;
+    height: 50px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-color: #3C486B;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+button {
+    height: 50px;
+    width: 150px;
+    background-color: #3C486B;
+    color: white;
+    font-weight: bold;
+    border-style: solid;
+    font-size: 20px;
+    border-width: 2px;
+    border-color: #3C486B;
+}
+button:hover{
+     background-color: #F0F0F0;
+    color: #3C486B;
+}
+.delete-btn{
+    background-color: white;
+    color: #3C486B;
+}
+.delete-btn:hover {
+    background-color: #3C486B;
+        color: white;
+}
+a{
+    color: #3C486B;
+    text-decoration: none;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+}
